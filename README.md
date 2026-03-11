@@ -42,17 +42,24 @@ RideSync is a complete online bus booking system developed using **JSP**, **Java
 
 ## 🖥 Screenshots
 
-> You can add screenshots in a folder like `/images` and link them below:
 
 - ✅ Booking Page  
-  ![Booking](images/booking.png)
+  ![Booking](screenshots/booking.png.jpeg)
 
 - ✅ Admin Dashboard  
-  ![Admin](images/admin_dashboard.png)
+  ![Admin](screenshots/admin.png.jpeg)
 
-- ✅ PDF Receipt  
-  ![PDF](images/receipt.png)
+- ✅ Home Page  
+  ![PDF](screenshots/home.png.jpeg)
 
+- ✅ Booking Summary Page 
+  ![Booking Summary](screenshots/booking_summary.jpeg)
+
+- ✅ Payment Page  
+  ![Payment](screenshots/payment.jpeg)
+
+- ✅ Bill 
+  ![Bill](screenshots/bill.png)
 ---
 
 ## 🚀 Getting Started
@@ -85,7 +92,7 @@ RideSync is a complete online bus booking system developed using **JSP**, **Java
 
 ## 📬 Contact
 
-Built with ❤️ by **Caren **
+Built with ❤️ by **Caren J**  
 For feedback or queries, email: `admin@ridesync.com`
 
 ---
