@@ -20,9 +20,6 @@ RideSync is a complete online bus booking system developed using **JSP**, **Java
 - Add/edit/delete buses and drivers
 - Monitor system data
 
-### 🚐 Driver Dashboard
-- View assigned buses
-- Track bookings on their route
 
 ### 📄 Extras
 - PDF ticket generation with QR code & logo
