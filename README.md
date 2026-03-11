@@ -58,8 +58,9 @@ RideSync is a complete online bus booking system developed using **JSP**, **Java
 - ✅ Payment Page  
   ![Payment](screenshots/payment.jpeg)
 
-- ✅ Bill 
+- ✅ Bill PDF
   ![Bill](screenshots/bill.png)
+  
 ---
 
 ## 🚀 Getting Started
