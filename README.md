@@ -85,7 +85,7 @@ RideSync is a complete online bus booking system developed using **JSP**, **Java
 
 ## 📬 Contact
 
-Built with ❤️ by **Caren J**  
+Built with ❤️ by **Caren **
 For feedback or queries, email: `admin@ridesync.com`
 
 ---
